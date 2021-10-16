@@ -7,7 +7,7 @@ import java.util.ArrayList;
  */
 public class MovieDBMock
 {
-	MovieDBMock()
+	public MovieDBMock()
 	{
 		init();
 	}
